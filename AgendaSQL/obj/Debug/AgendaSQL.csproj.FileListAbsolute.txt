@@ -1,0 +1,14 @@
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.AssemblyReference.cache
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.frmMenu.resources
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.Properties.Resources.resources
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.GenerateResource.cache
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.CoreCompileInputs.cache
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.pdb
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\bin\Debug\System.Data.SqlServerCe.dll
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.csproj.CopyComplete
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.exe
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.pdb
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.frmAdicionarEditar.resources
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.frmResultados.resources
+C:\CSharp\Projetos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.frmPesquisa.resources
